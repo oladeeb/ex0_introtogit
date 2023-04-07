@@ -1,7 +1,8 @@
-print_number.c#include <stdio.h>
+#include <stdio.h>
 
-int course_number[6] = {4, 2, 1, 4, 3, 2};
+
 int main() {
+int course_number[6] = {4, 2, 1, 4, 3, 2};
 	for(int i = 5; i > -1; i--) {
 		printf("%d", course_number[i]);
 	}
