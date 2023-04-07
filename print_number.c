@@ -7,6 +7,6 @@ int course_number[6] = {4, 2, 1, 4, 3, 2};
 		printf("%d", course_number[i]);
 	}
 	printf("\n");
-	return 0;
+	return  0;
 }
 
