@@ -1,7 +1,8 @@
-Favorite color:white 
-Favorite food: pizza
-Favorite musician/band:no
-Favorite movie:xmen
-Requested grade in the course: 100
+Favorite color:blue 
+Favorite food: human meal
+Favorite musician/band:haram
+Favorite movie:you
+Requested grade in the course: 100 inshala
+
 
 
